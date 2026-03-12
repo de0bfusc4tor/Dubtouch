@@ -1,6 +1,6 @@
 # 𝕯𝖚𝖇𝖙𝖔𝖚𝖈𝖍
 
-> _Dubtouch is a Synthesizer for Dub Techno Chords & Stabs. It synthesizes minor-chords, resonant filtering and rhythmic echoes to create deep Dub Techno textures and melodies. It reproduces vintage classic hardwares using the latest modern DSP._
+> _Synthesizer for Dub Techno Chords & Stabs. Synthesizes minor-chords, resonant filtering and rhythmic echoes to create deep Dub Techno textures and melodies. Reproduces vintage classic hardwares using the latest modern DSP._
 
 ![Under Development](https://img.shields.io/badge/Status-Under%20Development-orange)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
@@ -37,14 +37,14 @@
 3. Open `Dubtouch`.
 
 ### 𝐀𝐮𝐝𝐢𝐨 𝐔𝐧𝐢𝐭 (𝐀𝐔) 
-1. Download the Dubtouch.component.zip plugin.
-2. Copy the files to your `Components` folder:
+1. Download the `Dubtouch.component.zip` plugin.
+2. Copy `Dubtouch.component` to your `Components` folder:
    - **AU**: `/Library/Audio/Plug-Ins/Components`
 3. Rescan plugins in your DAW and load `Dubtouch` onto a MIDI track.
 
 ### 𝐕𝐒𝐓𝟑
 1. Download the Dubtouch.vst3.zip plugin.
-2. Copy the files to your `VST3` folder:
+2. Copy `Dubtouch.vst3` to your `VST3` folder:
    - **VST3**: `/Library/Audio/Plug-Ins/VST3`
 3. Rescan plugins in your DAW and load `Dubtouch` onto a MIDI track.
 
