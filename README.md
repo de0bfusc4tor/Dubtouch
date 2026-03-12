@@ -1,6 +1,6 @@
 # 𝕯𝖚𝖇𝖙𝖔𝖚𝖈𝖍
 
-> _Dubtouch is a Virtual Analog Synthesizer for Dub Techno Chords & Stabs. It synthesizes minor-chords, resonant filtering and rhythmic echoes to create deep Dub Techno textures and melodies. It reproduces vintage classic hardware throught the latest modern DSP._
+> _Dubtouch is a Virtual Analog Synthesizer for Dub Techno Chords & Stabs. It synthesizes minor-chords, resonant filtering and rhythmic echoes to create deep Dub Techno textures and melodies. It reproduces vintage classic hardwares throught the latest modern DSP._
 
 ![Under Development](https://img.shields.io/badge/Status-Under%20Development-orange)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
