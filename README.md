@@ -1,4 +1,4 @@
-# 𝕯𝖚𝖇𝖙𝖔𝖚𝖈𝖍
+# 𝕯𝖚𝖇 𝕾𝖙𝖆𝖇𝖘
 
 > _Synthesizer for Dub Techno Chords & Stabs. Synthesizes minor-chords, resonant filtering and rhythmic echoes to create deep Dub Techno textures and melodies. Reproduces vintage classic hardwares using the latest modern DSP._
 
@@ -10,14 +10,21 @@
 
 ---
 
+https://github.com/user-attachments/assets/bcc1bfac-0bcb-4fd9-8b8c-268eb7b13e66
+
+---
+
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 - **Virtual Analog Engine**: High-fidelity oscillators with multiple classic hardware-inspired presets.
 - **Advanced Modulation**: Triple LFO system targeting Filter Cutoff, Pitch, and Amplitude for evolving movement.
-- **Geometric UI**: Minimalistic, dark-themed interface designed for focus and ergonomic studio control.
-- **Real-time Performance**: Low-latency audio processing.
+- **Geometric Interface**: Minimalistic, dark-themed interface designed for focus and ergonomic studio control.
+- **Classic Synthesizers**: Juno-106, Prophet VS, DX7, MS-20 & Polysix.
+- **"Sweet Spot" Default Parameters**: Default parameters set for instant Dub Techno.
+- **LFOs**: 3 LFOs for Filter, Pitch & Amp.
 - **Integrated Effects**: Built-in bitcrushing (Grit) and spatial delay (Space) for immediate sound shaping.
 - **Zero Dependencies**: Fully offline capable once installed.
+- **Multi-Language Support**: Interface available in English, Français, Русский, 日本語, and 한국어 with the keyboards layouts and keybindings respective to each language.
 
 ---
 
@@ -32,21 +39,21 @@
 ## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
-1. Download the latest `Dubtouch.app.zip`.
+1. Download the latest `Dubstabs.app.zip`.
 2. Extract & Drag to your `Applications` folder.
 3. Open `Dubtouch`.
 
 ### 𝐀𝐮𝐝𝐢𝐨 𝐔𝐧𝐢𝐭 (𝐀𝐔) 
-1. Download the `Dubtouch.component.zip` plugin.
-2. Copy `Dubtouch.component` to your `Components` folder:
+1. Download the `Dubstabs.component.zip` plugin.
+2. Copy `Dubstabs.component` to your `Components` folder:
    - **AU**: `/Library/Audio/Plug-Ins/Components`
 3. Rescan plugins in your DAW and load `Dubtouch` onto a MIDI track.
 
 ### 𝐕𝐒𝐓𝟑
 1. Download the Dubtouch.vst3.zip plugin.
-2. Copy `Dubtouch.vst3` to your `VST3` folder:
+2. Copy `Dubstabs.vst3` to your `VST3` folder:
    - **VST3**: `/Library/Audio/Plug-Ins/VST3`
-3. Rescan plugins in your DAW and load `Dubtouch` onto a MIDI track.
+3. Rescan plugins in your DAW and load `Dubstabs` onto a MIDI track.
 
 ---
 
@@ -70,7 +77,7 @@ Dubtouch includes five distinct models inspired by legendary synthesis:
 - **Cutoff / Res**: Sculpt the frequency and resonance of the low-pass filter.
 - **Grit**: Dedicated bitcrusher and distortion stage for saturation.
 - **Decay**: Controls the amplitude envelope release time.
-- **Space**: High-quality spatial delay for atmospheric dimension.
+- **Space**: Spatial delay for atmospheric dimension.
 
 ### 𝐌𝐨𝐝𝐮𝐥𝐚𝐭𝐢𝐨𝐧 (𝐋𝐅𝐎𝐬)
 
