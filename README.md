@@ -31,7 +31,7 @@
 
 - **macOS**: 14.0 (Sonoma), 15.0 (Sequoia), or 16.0 (Tahoe).
 - **Architecture**: Intel & Apple Silicon.
-- **DAW**: Ableton Live 12+, Logic Pro, or other major DAWs.
+- **DAW**: Ableton Live 12+
 
 ---
 
