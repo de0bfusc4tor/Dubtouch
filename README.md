@@ -49,7 +49,7 @@
 3. Rescan plugins in your DAW and load `Dub Stabs` onto a MIDI track.
 
 ### 𝐕𝐒𝐓𝟑
-1. Download the Dubtouch.vst3.zip plugin.
+1. Download the `Dubstabs.vst3.zip` plugin.
 2. Copy `Dubstabs.vst3` to your `VST3` folder:
    - **VST3**: `/Library/Audio/Plug-Ins/VST3`
 3. Rescan plugins in your DAW and load `Dub Stabs` onto a MIDI track.
