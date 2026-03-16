@@ -1,6 +1,6 @@
 # 𝕯𝖚𝖇 𝕾𝖙𝖆𝖇𝖘
 
-> _Synthesizer for Dub Techno Chords & Stabs. Synthesizes minor-chords, resonant filtering and rhythmic echoes to create deep Dub Techno textures and melodies. Reproduces vintage classic hardwares using the latest modern DSP._
+> _Synthesizer for Dub Techno Chords & Stabs. Synthesizes minor-chords, resonant filtering and rhythmic echoes to create deep Dub Techno textures and melodies. Includes 5 classic hardwares synthesizers._
 
 ![Version](https://img.shields.io/badge/Version-0.9.9-green?style=flat-square)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
